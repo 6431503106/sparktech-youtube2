@@ -20,6 +20,7 @@ cd server
 npm i npm i bcryptjs
 npm i express mongoose dotenv
 npm install -D nodemon
-npm start
-cd controllers
-npm i jsonwebtoken ในหน้า controllers
+- npm start
+- cd controllers
+- npm i jsonwebtoken 
+ในหน้า controllers
